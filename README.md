@@ -15,3 +15,7 @@ if (isAwesome){
   return true
 }
 ```
+| Name | Description          |
+| ------------- | ----------- |
+| Help      | Display the help window.|
+| Close     | Closes a window     |
