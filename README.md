@@ -9,3 +9,9 @@ nicolaslecoz.github.io
 
 - Autojump
 - Termintor
+
+```
+if (isAwesome){
+  return true
+}
+```
